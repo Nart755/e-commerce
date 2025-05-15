@@ -1,2 +1,3 @@
 # e-commerce
-Practice webapp for learning SQLI
+Node.js
+Solution = Method part of an API endpoint bruteforce for exploitation
